@@ -16,6 +16,7 @@ function solution(N){
 			var hitung = 0;
 		}
 	};
+	console.log(print);
 	return print;
 }
 solution(1041);
